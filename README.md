@@ -1,5 +1,5 @@
 ### Hi! I'm Harshita 
-#### I'm a front-end developer and tech enthusiast.
+#### I'm a front end web developer and tech enthusiast.
 
 
 <!---
