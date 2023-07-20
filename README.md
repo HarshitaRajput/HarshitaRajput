@@ -1,5 +1,5 @@
 ### Hi! I'm Harshita 
-#### I'm a front end web developer and love all things tech 👩‍💻
+#### I love all things tech 👩‍💻
 
 
 <!---
